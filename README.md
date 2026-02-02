@@ -13,6 +13,6 @@ Note: Make sure the present working directory location has the "main. cpp" file 
 
 
 
-****************compiler requirements:*************************
+**compiler requirements:**
 
 * C++, GNU compiler
